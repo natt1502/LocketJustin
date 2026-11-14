@@ -48,15 +48,15 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD NMS",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Đã Kich Hoạt 💛",
+            title: "Đã Kich Hoạt Gold💛",
             feature_set: [
                 {
-                    title: "Youtube @NightmarketServer ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"
+                    title: "Tiktok: @iamcphuc_ 😎",
+                    body: "Welcome to Locket Gold 💛",
+                    imageURL: "https://cdn.upanhlaylink.com/i/pUTFNVPV.jpeg"
                 }
             ],
-            primary_button_title: "Xong",
+            primary_button_title: "Done🤩",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
